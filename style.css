@@ -94,7 +94,7 @@ body{
     /* border: 2px solid yellow; */
     width: 50%;
     margin: 0;
-    background: url('/images/img.png') no-repeat center center/cover;
+    background: url('./images/img.png') no-repeat center center/cover;
     background-size: 528px 485px;
     top: 0;
 }
